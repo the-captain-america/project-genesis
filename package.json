@@ -1,0 +1,46 @@
+{
+  "name": "genesis",
+  "version": "1.0.0",
+  "description": "Angular 1.6.8 working with React 16.8",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "angular": "1.6.8",
+    "angular-animate": "1.6.8",
+    "angular-aria": "1.6.8",
+    "angular-cookies": "1.6.8",
+    "angular-google-chart": "0.1.0",
+    "angular-material": "1.1.18",
+    "angular-messages": "1.6.8",
+    "angular-resource": "1.6.8",
+    "angular-sanitize": "1.6.8",
+    "angular-ui-router": "^1.0.23",
+    "babel-jest": "23.6.0",
+    "faker": "^4.1.0",
+    "immutability-helper": "^3.0.0",
+    "jquery": "3.4.1",
+    "ng-redux": "4.4.1",
+    "ngreact": "0.5.2",
+    "react": "16.8.6",
+    "react-dnd": "9.3.4",
+    "react-dnd-html5-backend": "9.3.4",
+    "react-dom": "16.8.6",
+    "react-frame-component": "^4.1.0",
+    "react-redux": "7.1.1",
+    "react-router-dom": "5.1.2",
+    "react-scripts": "3.0.1",
+    "redux": "4.0.4",
+    "redux-thunk": "2.3.0",
+    "styled-components": "4.4.0"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
