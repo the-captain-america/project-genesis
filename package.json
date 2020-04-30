@@ -18,7 +18,7 @@
     "babel-jest": "23.6.0",
     "faker": "^4.1.0",
     "immutability-helper": "^3.0.0",
-    "jquery": "3.4.1",
+    "jquery": "3.5.0",
     "ng-redux": "4.4.1",
     "ngreact": "0.5.2",
     "react": "16.8.6",
